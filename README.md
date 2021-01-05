@@ -7,7 +7,7 @@ Advanced DOM & Events exercise project
   <li>Tab components</li>
   <li>Slideshow</li>
 </ul>
-<p>Techiniques used:</p>
+<p>Technologies used:</p>
 <ul>
   <li>Event delegation</li>
   <li>DOM traversing</li>
